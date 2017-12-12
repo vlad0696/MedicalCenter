@@ -47,3 +47,7 @@ C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\obj\Debug\MedicalC
 C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\obj\Debug\MedicalCenter.csproj.CoreCompileInputs.cache
 C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\obj\Debug\MedicalCenter.dll
 C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\obj\Debug\MedicalCenter.pdb
+C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\bin\EntityFramework.dll
+C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\bin\EntityFramework.xml
+C:\Users\Gramovich_V\source\repos\MedicalCenter\MedicalCenter\bin\EntityFramework.SqlServer.xml

@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using MedicalCenter.Models;
 
 namespace MedicalCenter.Controllers
 {
     public class HomeController : Controller
     {
+        MainContext db = new MainContext();
         public ActionResult Index()
         {
+            IEnumerable<Role> role = db.Role;
+            ViewBag.Role = role;
             return View();
         }
 

@@ -7,3 +7,19 @@
  
 </div>
 
+<div>
+    <h3>Распродажа книг</h3>
+    <table>
+        <tr>
+            <td><p>Роль</p></td>
+            <td></td>
+        </tr>
+        @foreach (var b in ViewBag.Role)
+            {
+            <tr>
+                <td><p>@b.UserRole</p></td>
+                <td><p><a href="/Home/@b.Id">Купить</a></p></td>
+            </tr>
+        }
+    </table>
+</div>
